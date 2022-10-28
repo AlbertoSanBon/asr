@@ -83,7 +83,7 @@ Lanzamos el siguiente comando.
 ![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/Entrega2_FINAL%20comando%20(15).png)
 Vemos como se crea correctamente el mycronjob.
 
-Ahora con ayuda de la herramienta Lens, podemos ver un informe de estos.
+Ahora con ayuda de la herramienta Lens, podemos ver un informe de estos logs.
 
 ![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/ComprobacionFunciona1.png)
 ![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/ComprobacionFunciona2.png)
