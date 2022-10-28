@@ -17,7 +17,7 @@ Iniciamos la práctica realizando un gcloud init seleccionando nuestro proyecto:
 ![](https://github.com/AlbertoSanBon/asr/blob/83f90587066f472159189fce5e112dc8ec87c000/practica6entrega2/imgs/Introduccion1_Creamos%20cluster(2).png)
 ![](https://github.com/AlbertoSanBon/asr/blob/83f90587066f472159189fce5e112dc8ec87c000/practica6entrega2/imgs/Introduccion1_Creamos%20cluster(2)Comprobacion.png)
 
-4. Una vez ha terminado la creación del cluster, hacemos uso de un manifiesto de despliegue, php-apache.yaml
+4. Una vez ha terminado la creación del cluster, hacemos uso de un manifiesto de despliegue, php-apache.yaml para demostrar el autoescalado horizontal de pods. Este lleva a cabo tareas computacionalmente costosas.
 
 ![](https://github.com/AlbertoSanBon/asr/blob/83f90587066f472159189fce5e112dc8ec87c000/practica6entrega2/imgs/Introduccion1_Creacion%20y%20aplicacion%20manifiesto%20(3).png)
 
