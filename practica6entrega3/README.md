@@ -31,3 +31,5 @@ Si accedemos a esa direccion IP con el protocolo http y añadiendo el puerto 808
 ![](https://github.com/AlbertoSanBon/asr/blob/f4b4cd273cf89e1a9449f0c1e90a2e53647623b1/practica6entrega3/imgs/Comprobacion%20funcionamiento.png)
 ![](https://github.com/AlbertoSanBon/asr/blob/f4b4cd273cf89e1a9449f0c1e90a2e53647623b1/practica6entrega3/imgs/Comprobacion%20funcionamiento_2.png)
 ![](https://github.com/AlbertoSanBon/asr/blob/f4b4cd273cf89e1a9449f0c1e90a2e53647623b1/practica6entrega3/imgs/Comprobacion%20funcionamiento_3.png)
+
+Si repitieramos el proceso aumentando el número de réplicas de pods, observaríamos como aumentaría el número de requests por segundo. También, disminiría la tasa de error.
