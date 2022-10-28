@@ -27,7 +27,7 @@ Iniciamos la práctica realizando un gcloud init seleccionando nuestro proyecto:
 
 ![](https://github.com/AlbertoSanBon/asr/blob/83f90587066f472159189fce5e112dc8ec87c000/practica6entrega2/imgs/Introduccion2_Inspeccion%20despliegues%20activos%20en%20el%20cluster%20(4).png)
 
-2. Aplicamos el autoescalado horizontal del pods (HPA).
+2. Aplicamos el autoescalado horizontal del pods (HPA). Esto modificará nuestro número de pods en el cluster en función de la carga de trabajo.
 
 ![](https://github.com/AlbertoSanBon/asr/blob/83f90587066f472159189fce5e112dc8ec87c000/practica6entrega2/imgs/Introduccion2_Aplicamos%20el%20HPA%20autoescalado%20horizontal%20de%20pods%20(5).png)
 
