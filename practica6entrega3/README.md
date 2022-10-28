@@ -12,7 +12,10 @@ Antes de comenzar habilitamos los servicios cloud.
 
 3. Modificamos en los archivos locust_master-controller.yaml y locust-worker-controller.yaml los parámetros [TARGET_HOST] y [PROJECT_ID].
 
+Archivo locust-master-controller.yaml:
 ![](https://github.com/AlbertoSanBon/asr/blob/f4b4cd273cf89e1a9449f0c1e90a2e53647623b1/practica6entrega3/imgs/Modificamos%20locust-master-controller_yaml%20(3).png)
+
+Archivo locust-worker-controller.yaml:
 ![](https://github.com/AlbertoSanBon/asr/blob/f4b4cd273cf89e1a9449f0c1e90a2e53647623b1/practica6entrega3/imgs/Modificamos%20locust-worker-controller_yaml%20(4).png)
 
 5. Desplegamos los nodos Locust master y Locust worker.
