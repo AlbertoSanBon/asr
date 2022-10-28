@@ -61,3 +61,29 @@ Mientras en nuestra terminal principal, podremos ver como aumenta el target.
 1. Creamos el siguiente archivo Dockerfile para que tenga instalado el comando "ab".
 
 ![](https://github.com/AlbertoSanBon/asr/blob/83f90587066f472159189fce5e112dc8ec87c000/practica6entrega2/imgs/Entrega2_Creamos%20Dockerfile%20(10).png)
+
+2. Generamos la imagen docker y comprobamos que se ha creado correctamente.
+
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/Entrega2_Buildeamos%20la%20imagen%20(11).png)
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/Entrega2_Comprobamos%20imagen%20creada%20(12).png)
+
+3. Tagueamos la imagen a Google.
+
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/Entrega2_Tagueamos%20la%20imagen%20a%20google%20(13).png)
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/Entrega2_Tagueamos%20la%20imagen%20a%20google%20(13)Comprobacion.png)
+
+4. Definiremos un job.yaml el cual lance nuestra imagen. Lo configuraremos de la siguiente manera.
+
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/Entrega2_Creamos%20job_yaml%20(14).png)
+
+# RESULTADO
+
+Lanzamos el siguiente comando.
+
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/Entrega2_FINAL%20comando%20(15).png)
+Vemos como se crea correctamente el mycronjob.
+
+Ahora con ayuda de la herramienta Lens, podemos ver un informe de estos.
+
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/ComprobacionFunciona1.png)
+![](https://github.com/AlbertoSanBon/asr/blob/bc115350fffeab947e8a0a962a26aa06869fd9f3/practica6entrega2/imgs/ComprobacionFunciona2.png)
