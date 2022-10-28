@@ -1,5 +1,7 @@
 # Entrega 2
 
+Enlace al github: https://github.com/AlbertoSanBon/asr/tree/main/practica6entrega2
+
 Iniciamos la práctica realizando un gcloud init seleccionando nuestro proyecto:
 
 !["gcloud init"](https://github.com/AlbertoSanBon/asr/blob/105808da0257c6dec7ee74c78fed2d021247aba1/practica6entrega2/imgs/gcloud%20init.png)
