@@ -1,2 +1,3 @@
 # Entrega 2
-hola
+
+Iniciamos la práctica realizando un gcloud init seleccionando nuestro proyecto.
